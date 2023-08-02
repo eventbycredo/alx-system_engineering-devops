@@ -1,2 +1,2 @@
-#!/bin/baad
+#!/bin/bash
 rm *~
